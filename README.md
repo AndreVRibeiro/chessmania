@@ -7,7 +7,7 @@
 
   A team-based, four-player chess variant developed in Java as a university programming project at the University of Basel.
   
-  [🎬 Gameplay Video](outreach/video.mp4) · [📖 Game Manual](milestones/milestone3/Game%20Manual%20-%20CHESS%20MANIA!.pdf) · [🖼️ Screenshots & Mockups](#-design--visual-development)
+  [🎬 Gameplay Video](outreach/video.mp4) · [📖 Game Manual](outreach/Game%20Manual%20-%20Chess%20Mania.pdf) · [🖼️ Screenshots & Mockups](#-design--visual-development)
 </div>
 
 ---
@@ -253,7 +253,7 @@ The original video file is preserved in the repository under `outreach/video.mp4
 
 The repository includes materials from the project's development milestones:
 
-- [Game Manual](milestones/milestone3/Game%20Manual%20-%20CHESS%20MANIA!.pdf) — gameplay instructions and rules.
+- [Game Manual](outreach/Game%20Manual%20-%20Chess%20Mania.pdf) — gameplay instructions and rules.
 - [Game Concept](milestones/milestone1/game%20concept.md) — the original game concept.
 - [Game Rules](milestones/milestone1/game%20rules.md) — detailed rules for the four-player chess variant.
 - [Requirement Analysis](milestones/milestone1/requirement%20analysis.md) — planned gameplay and interface requirements.
